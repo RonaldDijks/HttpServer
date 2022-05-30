@@ -1,0 +1,6 @@
+# .NET artifacts
+obj
+bin
+
+# VSCode configuration
+.vscode
